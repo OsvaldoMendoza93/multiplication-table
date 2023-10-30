@@ -1,4 +1,4 @@
-# HeroesApp
+# MultiplicationApp
 
 This project was generated with Nodejs
 
