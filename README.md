@@ -1,4 +1,12 @@
-# Notes:
+# HeroesApp
+
+This project was generated with Nodejs
+
+## Development server
+ 
+Run `npm install` For install all de dependencies required to the app
+
+Reun `node app` and use the next flags 
 
 ```
 Options:
